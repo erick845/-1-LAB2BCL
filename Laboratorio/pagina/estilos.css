@@ -1,0 +1,46 @@
+.container{
+	width: 100% !important;
+}
+
+.img1{
+	width: 40px;
+	height: 40px;
+}
+
+.icon{
+	font-size: .9em;
+	margin-top: 1.5em;
+	float: left;
+}
+
+.tex{
+	text-align: right;
+	font-size: .9em;
+	margin-top: 1.5em;
+}
+
+.fondo1{
+	background-image: url(fondo1.jpg);
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
+
+.tex1{
+	font-size: 2.5em;
+	color: white;
+	margin-top: 4em;
+}
+
+.img2{
+	width: 80%;
+	height: 650px;
+}
+
+.tex2{
+	color: white
+}
+
+.img3{
+	width: 25%;
+	margin-top: 1.5em;
+}
